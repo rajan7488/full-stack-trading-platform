@@ -27,7 +27,7 @@ export default function Universe() {
           <p className='mt-3'>Options trading platform that lets you create strategies, analyaze positions, and examine data points like open interest, fll/Dll, and more.</p>
         </div>
         <div className='col-4 p-5 text-center'>
-          <img src="media/ditto.png" alt="" style={{width:"50%"}}/>
+          <img src="media/dittoLogo.png" alt="" style={{width:"50%"}}/>
           <p className='mt-3'>Systamatic trading platform that allows you to create and backtest strategies without coding</p>
         </div>
       </div>

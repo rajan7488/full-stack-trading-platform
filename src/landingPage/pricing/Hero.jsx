@@ -19,7 +19,7 @@ export default function Hero() {
           </p>
         </div>
         <div className="col-4 p-4">
-              <img src="media/other-trades.svg" alt="pricing"  style={{width:"60%"}} />
+              <img src="media/intradayTrades.svg" alt="pricing"  style={{width:"60%"}} />
 
           <h1 className="fs-3">Intraday and F&O trades</h1>
           <p className="text-muted">
